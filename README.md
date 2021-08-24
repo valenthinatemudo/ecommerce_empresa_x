@@ -34,3 +34,7 @@ __Melhoria 1__, _melhoria 2_
 ### Imagem externa
 
 ![Logo do PHP](https://w7.pngwing.com/pngs/270/145/png-transparent-php-web-development-javascript-logo-c-others-blue-text-trademark.png)
+
+## Links interessantes:
+
+[Google](https://www.google.com)
