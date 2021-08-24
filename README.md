@@ -42,3 +42,11 @@ __Melhoria 1__, _melhoria 2_
 Contribuidos principal: https://www.github.com/valenthinatemudo
 
 [![Logo do PHP](https://w7.pngwing.com/pngs/270/145/png-transparent-php-web-development-javascript-logo-c-others-blue-text-trademark.png)](https://www.github.com/valenthinatemudo)
+
+## Código da função soma
+
+```javascript
+funcion soma (a,b) {
+    return a + b;
+}
+```
