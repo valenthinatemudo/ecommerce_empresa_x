@@ -39,4 +39,4 @@ __Melhoria 1__, _melhoria 2_
 
 [Google](https://www.google.com)
 
-Contribuidos principal: https://www.github.com/valenthina-temudo
+Contribuidos principal: https://www.github.com/valenthinatemudo
